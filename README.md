@@ -17,7 +17,7 @@ A powerful tool that automates extensive GitHub searches using 23 predefined dor
 ## Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/YourUserName/gitblast.git
+   git clone https://github.com/5u5urrus/gitblast.git
    ```
 2. **Install Python 3.6+ and Requests**:
    ```bash
